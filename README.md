@@ -1,2 +1,2 @@
 # jenkins-pipeline-testing
-TEST 1
+TEST 2
